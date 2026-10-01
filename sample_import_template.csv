@@ -1,0 +1,4 @@
+Account Name,Industry,Head Office,Location,Company Website,Name,Role/Designation,Phone,Email,Company Phone,Call Status,Source From,Lead Date,Business Type
+"Test Company ABC",Technology,Mumbai,Delhi,https://testabc.com,"Hibha, Roshan",CEO,"9812345124, 9823456745",hibha@testabc.com / roshan@testabc.com,"022-12345678, 022-87654321",New,LinkedIn,2026-01-24,"Customs Broking, 3PL Service"
+"Sample Corp XYZ",Manufacturing,Bangalore,,"https://samplexyz.com","Jane Smith, Bob Wilson, Alice Chen",Manager,"9123456789, 9988776655, 9876543210",jane@sample.com / bob@sample.com / alice@sample.com,"080-11111111, 080-22222222, 080-33333333",,Referral,,"Freight Forwarding, Warehousing"
+"Demo Industries",Logistics,Chennai,Kolkata,https://demo.com,John Doe,Director,9988776655,john@demo.com,044-87654321,Callback,Website,2026-01-20,Project Cargo
